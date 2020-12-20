@@ -37,7 +37,7 @@ variable "db_skip_final_snapshot" {
 }
 variable "ingress_cidrs" {
   type    = list(string)
-  default = ["121.74.104.60/32"]
+  default = ["0.0.0.0/0"]
 }
 variable "db_max_allocated_storage" {
   type = string
