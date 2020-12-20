@@ -1,0 +1,6 @@
+"DbUser" = "postgres"
+"DbPassword" = "${db_password}"
+"DbName" = "${db_name}"
+"DbPort" = "5432"
+"DbHost" = "${db_host}"
+"ListenHost" = "0.0.0.0"
