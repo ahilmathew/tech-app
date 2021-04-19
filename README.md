@@ -1,4 +1,4 @@
-# TechApp with Terraform
+# To Do App with Terraform
 
 This code base:
 
